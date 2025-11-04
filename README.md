@@ -1,0 +1,1 @@
+saya menginputkan integer jumlah siswa dan inetegr temp, menggunakan perulangan for yang hasil dari program tersebut adalah memasukkan jumlah siswa, dan nilainya lalu terhitung jumlah rata-rata nilai dari semua jumlah siswa tersebut
